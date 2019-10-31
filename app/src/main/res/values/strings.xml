@@ -4,4 +4,10 @@
     <string name="text_copy_rights"> © Copyright STE Consulting. 2019. All rights reserved.</string>
     <string name="text_login_id">사용자 :</string>
     <string name="text_login_pwd">비밀번호 :</string>
+
+    <string name="error_host_port">Missing Maximo host:port</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_password">The password is invalid</string>
 </resources>
