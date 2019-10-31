@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maximo 모바일</string>
+    <string name="login_button">로그인</string>
+    <string name="text_copy_rights"> © Copyright STE Consulting. 2019. All rights reserved.</string>
+    <string name="text_login_id">사용자 :</string>
+    <string name="text_login_pwd">비밀번호 :</string>
+</resources>
